@@ -1,0 +1,16 @@
+.cache/
+.cargo/
+.ssh/
+__pycache__/
+*.pyc
+.pycache__/
+.config/
+*.bin
+*.zip
+*.img
+*.ppm
+*.png
+fat77/
+oeneye_root/
+storage/
+x_archive_share/
