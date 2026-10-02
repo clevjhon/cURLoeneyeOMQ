@@ -1,0 +1,167 @@
+{
+  "createdAt": "2025-11-08T10:53:23.565Z",
+  "names": [
+    "Kai Olaf Ketelhut"
+  ],
+  "nicknames": [
+    "Kai Olaf"
+  ],
+  "given_names": [
+    "Kai Olaf"
+  ],
+  "family_names": [
+    "Ketelhut"
+  ],
+  "pictures": [
+    {
+      "picture": "https://pictures.hello.coop/u/bfd57043-8bc4-424c-bdcf-7eebac6e78e9.jpeg",
+      "createdAt": "2025-11-08T12:32:26.819Z",
+      "synced": false,
+      "source": "upload"
+    },
+    {
+      "picture": "https://pictures.hello.coop/avatar/8222626d2def2c274005a87b4cc4a6d4?s=256,d=identicon",
+      "createdAt": "2025-11-08T12:31:16.798Z",
+      "subject_id": "gravatar::8222626d2def2c274005a87b4cc4a6d4",
+      "synced": true,
+      "label": "kai.ketelhut@gmx.ch",
+      "slug": "gravatar"
+    },
+    {
+      "picture": "https://pictures.hello.coop/avatar/ac583b4c1c38e4ca72365f95a5b0e595?s=256,d=identicon",
+      "createdAt": "2025-11-08T12:29:40.807Z",
+      "subject_id": "gravatar::ac583b4c1c38e4ca72365f95a5b0e595",
+      "synced": true,
+      "label": "kai.ketelhut@studio.unibo.it",
+      "slug": "gravatar"
+    },
+    {
+      "picture": "https://pictures.hello.coop/r/7b430048-4e22-46a5-b1d6-5371a4f4a117.png",
+      "original": "https://pbs.twimg.com/profile_images/1721164611712348160/GCUB03yT.png",
+      "createdAt": "2025-11-08T12:28:39.904Z",
+      "subject_id": "https://twitter.com::1721164511577600001",
+      "digest": "4483a2b42a4acc9c4b312ab1983500ffcfebcb84b830962ead8aa5be899fbe14",
+      "slug": "twitter",
+      "label": "olaf_kai56344"
+    },
+    {
+      "picture": "https://pictures.hello.coop/r/b4bddb9d-c6d6-4e1c-b18d-d2e400685bf4.png",
+      "original": "https://lh3.googleusercontent.com/a/ACg8ocLXllTHPhu1fmQwjcA0xgODI-uwhrqpwMQaLAnqvqNR6N86bGE=s96-c",
+      "createdAt": "2025-11-08T10:53:23.565Z",
+      "subject_id": "https://accounts.google.com::107099004396314280309",
+      "digest": "d886064b9f8531625eef51b79a68a18dc8b7cfa6b961400fa32b1efd5557eeaa",
+      "slug": "google",
+      "label": "kaiolafketelhut187@gmail.com"
+    },
+    {
+      "picture": "https://pictures.hello.coop/avatar/7352028ce706681664dbfe03349c4996?s=256,d=identicon",
+      "createdAt": "2025-11-08T10:53:23.452Z",
+      "subject_id": "gravatar::7352028ce706681664dbfe03349c4996",
+      "synced": true,
+      "label": "kaiolafketelhut187@gmail.com",
+      "slug": "gravatar"
+    },
+    {
+      "picture": "https://pictures.hello.coop/images/default-picture.png",
+      "source": "default",
+      "default": true,
+      "slug": "hello",
+      "synced": false
+    }
+  ],
+  "unverified_phones": [],
+  "unverified_emails": [],
+  "language": "en-GB",
+  "accounts": [
+    {
+      "id": "email::kaiketelhut@gmx.ch",
+      "slug": "email",
+      "verifiedAt": "2025-11-08T12:31:16.578Z",
+      "user_name": "kai.ketelhut@gmx.ch",
+      "login_hint": "kai.ketelhut@gmx.ch",
+      "preferred": false,
+      "recovery": true,
+      "communal": false,
+      "managed": false
+    },
+    {
+      "id": "email::kaiketelhut@studio.unibo.it",
+      "slug": "email",
+      "verifiedAt": "2025-11-08T12:29:40.436Z",
+      "user_name": "kai.ketelhut@studio.unibo.it",
+      "login_hint": "kai.ketelhut@studio.unibo.it",
+      "preferred": false,
+      "recovery": true,
+      "communal": false,
+      "managed": true,
+      "logo": "https://logos.hello.coop/org/ten_cI6MqZwmIyS1ORvcZu52KqS4_JJ4"
+    },
+    {
+      "id": "email::kaiolafketelhut187@gmail.com",
+      "slug": "email",
+      "verifiedAt": "2025-11-08T10:53:23.309Z",
+      "user_name": "kaiolafketelhut187@gmail.com",
+      "login_hint": "kaiolafketelhut187@gmail.com",
+      "preferred": false,
+      "recovery": false,
+      "communal": false,
+      "linkedAccount": "google",
+      "managed": false
+    },
+    {
+      "id": "https://accounts.google.com::107099004396314280309",
+      "slug": "google",
+      "verifiedAt": "2025-11-08T10:53:23.304Z",
+      "user_name": "kaiolafketelhut187@gmail.com",
+      "login_hint": "107099004396314280309",
+      "preferred": true,
+      "recovery": true,
+      "communal": false,
+      "managed": false
+    },
+    {
+      "id": "https://twitter.com::1721164511577600001",
+      "slug": "twitter",
+      "verifiedAt": "2025-11-08T12:28:39.753Z",
+      "user_name": "olaf_kai56344",
+      "profile_url": "https://twitter.com/olaf_kai56344",
+      "preferred": false,
+      "recovery": true,
+      "communal": false,
+      "managed": false
+    },
+    {
+      "id": "phone::+491747667343",
+      "slug": "phone",
+      "verifiedAt": "2025-11-08T12:31:53.238Z",
+      "user_name": "+491747667343",
+      "login_hint": "+491747667343",
+      "preferred": false,
+      "recovery": false,
+      "communal": false,
+      "managed": false
+    }
+  ],
+  "applications": [
+    {
+      "id": "app_bCVDmIitVZ7poaEFI2Edukwb_QlN",
+      "firstRelease": {
+        "at": "2025-11-08T10:53:29.092Z",
+        "location": {
+          "City": "Berlin",
+          "Country": "DE",
+          "CountryRegion": "BE",
+          "Latitude": "52.52410",
+          "Longitude": "13.29360",
+          "TimeZone": "Europe/Berlin",
+          "Language": "en-GB,en;q=0.9,es-GB;q=0.8,es;q=0.7,en-US;q=0.6,de;q=0.5",
+          "Pop": "NA"
+        },
+        "device_id": "dvc_qDKgGasLKJQraGxBZbwKawix_hUV"
+      },
+      "name": "OIDF Members",
+      "image_uri": "https://logos.hello.coop/u/app_bCVDmIitVZ7poaEFI2Edukwb_QlN_2025-04-24T18:54:44.328Z.png",
+      "dark_image_uri": "https://logos.hello.coop/u/app_bCVDmIitVZ7poaEFI2Edukwb_QlN_2025-04-24T18:54:44.534Z.png"
+    }
+  ]
+}

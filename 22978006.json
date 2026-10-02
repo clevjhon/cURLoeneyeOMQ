@@ -1,0 +1,548 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-09-26T13:17:15.147990+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 13,
+    "enabled": true,
+    "entries": {
+      "21479450.json": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:492b763222d8945f4aabacaf6f12a4ab",
+        "ext": "json",
+        "id": "584fd5b9-f04d-46e5-88ca-a594c15916ac",
+        "key": "21479450.json",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/21479450.json/content",
+          "self": "https://zenodo.org/api/records/22978006/files/21479450.json"
+        },
+        "metadata": null,
+        "mimetype": "application/json",
+        "size": 20024,
+        "storage_class": "L"
+      },
+      "22845198.json": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2f736b0e543fe6adb4700b0f7f12e22f",
+        "ext": "json",
+        "id": "b426fa85-fd32-4279-aca0-b12531fcf1df",
+        "key": "22845198.json",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/22845198.json/content",
+          "self": "https://zenodo.org/api/records/22978006/files/22845198.json"
+        },
+        "metadata": null,
+        "mimetype": "application/json",
+        "size": 23315,
+        "storage_class": "L"
+      },
+      "22911730.json": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a7382653230203c8a9184363d6887cd8",
+        "ext": "json",
+        "id": "fef64a8b-758e-47b8-84b8-4a21405dbda3",
+        "key": "22911730.json",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/22911730.json/content",
+          "self": "https://zenodo.org/api/records/22978006/files/22911730.json"
+        },
+        "metadata": null,
+        "mimetype": "application/json",
+        "size": 10116,
+        "storage_class": "L"
+      },
+      "22958760.json": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:641181a0f191d7c6d0ea3ce12af89387",
+        "ext": "json",
+        "id": "d91d503b-35ea-4d35-9e74-b1ba98a1c46f",
+        "key": "22958760.json",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/22958760.json/content",
+          "self": "https://zenodo.org/api/records/22978006/files/22958760.json"
+        },
+        "metadata": null,
+        "mimetype": "application/json",
+        "size": 59830,
+        "storage_class": "L"
+      },
+      "22973347.json": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1e7db62663f84aa543dedc829457fab8",
+        "ext": "json",
+        "id": "e1602312-8c43-4622-8135-cdc0d1c49980",
+        "key": "22973347.json",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/22973347.json/content",
+          "self": "https://zenodo.org/api/records/22978006/files/22973347.json"
+        },
+        "metadata": null,
+        "mimetype": "application/json",
+        "size": 9382,
+        "storage_class": "L"
+      },
+      "22973669.json": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:655be64af90cb965cb98a4d316febc80",
+        "ext": "json",
+        "id": "88f6889e-2cbc-4544-83ac-71d49a89f038",
+        "key": "22973669.json",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/22973669.json/content",
+          "self": "https://zenodo.org/api/records/22978006/files/22973669.json"
+        },
+        "metadata": null,
+        "mimetype": "application/json",
+        "size": 13218,
+        "storage_class": "L"
+      },
+      "22975278.json": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:445138210ff5f42002b0eba117afcb22",
+        "ext": "json",
+        "id": "bd5d33f3-93ba-4a32-9d64-db7cb3db91ff",
+        "key": "22975278.json",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/22975278.json/content",
+          "self": "https://zenodo.org/api/records/22978006/files/22975278.json"
+        },
+        "metadata": null,
+        "mimetype": "application/json",
+        "size": 15887,
+        "storage_class": "L"
+      },
+      "Abtretungserkl\u00e4rung_1622052_84805092-1.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7a827530a1b05bbb80dd78a50c25e9f5",
+        "ext": "pdf",
+        "id": "fb2cd1f9-21fc-468b-8b8c-1fe13049937e",
+        "key": "Abtretungserkl\u00e4rung_1622052_84805092-1.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/Abtretungserkl%C3%A4rung_1622052_84805092-1.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22978006:Abtretungserkl%C3%A4rung_1622052_84805092-1.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22978006:Abtretungserkl%C3%A4rung_1622052_84805092-1.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22978006/canvas/Abtretungserkl%C3%A4rung_1622052_84805092-1.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22978006:Abtretungserkl%C3%A4rung_1622052_84805092-1.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22978006/files/Abtretungserkl%C3%A4rung_1622052_84805092-1.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 195428,
+        "storage_class": "L"
+      },
+      "OENEYE_EULA.md": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:fe23b15fae6ed08ce21d2793bc6bb113",
+        "ext": "md",
+        "id": "1ca7260f-b94f-46cf-808b-b28fedfbf4db",
+        "key": "OENEYE_EULA.md",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/OENEYE_EULA.md/content",
+          "self": "https://zenodo.org/api/records/22978006/files/OENEYE_EULA.md"
+        },
+        "metadata": null,
+        "mimetype": "text/markdown",
+        "size": 4638,
+        "storage_class": "L"
+      },
+      "OENEYE_EULA.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:df6436f1807bc7795b6d6def8ca5b529",
+        "ext": "pdf",
+        "id": "d12472c7-d9d9-4c34-b35c-95c07aac0e85",
+        "key": "OENEYE_EULA.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/OENEYE_EULA.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22978006:OENEYE_EULA.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22978006:OENEYE_EULA.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22978006/canvas/OENEYE_EULA.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22978006:OENEYE_EULA.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22978006/files/OENEYE_EULA.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 102923,
+        "storage_class": "L"
+      },
+      "oeneye-telemetry.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:977c21e2b67c65236c55a7a6c1b3a7af",
+        "ext": "zip",
+        "id": "5096e9b7-2a4b-493f-9768-684f75fbb6ac",
+        "key": "oeneye-telemetry.zip",
+        "links": {
+          "container": "https://zenodo.org/api/records/22978006/files/oeneye-telemetry.zip/container",
+          "content": "https://zenodo.org/api/records/22978006/files/oeneye-telemetry.zip/content",
+          "self": "https://zenodo.org/api/records/22978006/files/oeneye-telemetry.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 3789,
+        "storage_class": "L"
+      },
+      "oeneye-xima.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:875b351d280ca5cfb7c2ee908d9e88df",
+        "ext": "zip",
+        "id": "36ad9cb7-0421-4e95-bd3a-36b57f56b79a",
+        "key": "oeneye-xima.zip",
+        "links": {
+          "container": "https://zenodo.org/api/records/22978006/files/oeneye-xima.zip/container",
+          "content": "https://zenodo.org/api/records/22978006/files/oeneye-xima.zip/content",
+          "self": "https://zenodo.org/api/records/22978006/files/oeneye-xima.zip"
+        },
+        "metadata": null,
+        "mimetype": "application/zip",
+        "size": 2287,
+        "storage_class": "L"
+      },
+      "qxd_node_3_4.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ca7aa7c1146e146f5a37023e7d7bcdce",
+        "ext": "pdf",
+        "id": "60f9e5dc-6c88-4147-928a-fa6c4232187b",
+        "key": "qxd_node_3_4.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/qxd_node_3_4.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22978006:qxd_node_3_4.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22978006:qxd_node_3_4.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22978006/canvas/qxd_node_3_4.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22978006:qxd_node_3_4.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22978006/files/qxd_node_3_4.pdf"
+        },
+        "metadata": null,
+        "mimetype": "application/pdf",
+        "size": 55036,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 515873
+  },
+  "id": "22978006",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/22978006/access",
+    "access_grants": "https://zenodo.org/api/records/22978006/access/grants",
+    "access_links": "https://zenodo.org/api/records/22978006/access/links",
+    "access_request": "https://zenodo.org/api/records/22978006/access/request",
+    "access_users": "https://zenodo.org/api/records/22978006/access/users",
+    "archive": "https://zenodo.org/api/records/22978006/files-archive",
+    "archive_media": "https://zenodo.org/api/records/22978006/media-files-archive",
+    "communities": "https://zenodo.org/api/records/22978006/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/22978006/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.22978006",
+    "draft": "https://zenodo.org/api/records/22978006/draft",
+    "file_modification": "https://zenodo.org/api/records/22978006/file-modification",
+    "files": "https://zenodo.org/api/records/22978006/files",
+    "latest": "https://zenodo.org/api/records/22978006/versions/latest",
+    "latest_html": "https://zenodo.org/records/22978006/latest",
+    "media_files": "https://zenodo.org/api/records/22978006/media-files",
+    "parent": "https://zenodo.org/api/records/22978005",
+    "parent_doi": "https://doi.org/10.5281/zenodo.22978005",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.22978005",
+    "parent_html": "https://zenodo.org/records/22978005",
+    "preview_html": "https://zenodo.org/records/22978006?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/22978006/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/22978006/request-deletion",
+    "requests": "https://zenodo.org/api/records/22978006/requests",
+    "reserve_doi": "https://zenodo.org/api/records/22978006/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/22978006",
+    "self_doi": "https://doi.org/10.5281/zenodo.22978006",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.22978006",
+    "self_html": "https://zenodo.org/records/22978006",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:22978006/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:22978006/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:22978006:OENEYE_EULA.pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:22978006:OENEYE_EULA.pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:22978006:OENEYE_EULA.pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:22978006:OENEYE_EULA.pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:22978006:OENEYE_EULA.pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:22978006:OENEYE_EULA.pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/22978006/versions"
+  },
+  "media_files": {
+    "count": 3,
+    "enabled": true,
+    "entries": {
+      "Abtretungserkl\u00e4rung_1622052_84805092-1.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "fa9d2b30-a8d2-43ef-941e-6a8a284a4273",
+        "key": "Abtretungserkl\u00e4rung_1622052_84805092-1.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/Abtretungserkl%C3%A4rung_1622052_84805092-1.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22978006/files/Abtretungserkl%C3%A4rung_1622052_84805092-1.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "fb2cd1f9-21fc-468b-8b8c-1fe13049937e",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "OENEYE_EULA.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "55d66cea-1452-48e9-b6e7-53c6cbb9f3c4",
+        "key": "OENEYE_EULA.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/OENEYE_EULA.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22978006/files/OENEYE_EULA.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "d12472c7-d9d9-4c34-b35c-95c07aac0e85",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "qxd_node_3_4.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "9cb346d0-2265-4b82-b1db-b5a6f3499404",
+        "key": "qxd_node_3_4.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22978006/files/qxd_node_3_4.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22978006/files/qxd_node_3_4.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "60f9e5dc-6c88-4147-928a-fa6c4232187b",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "03ceayq64",
+            "identifiers": [
+              {
+                "identifier": "03ceayq64",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.481608.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0525 3365",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Rheinmetall (Switzerland)"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Ketelhut",
+          "given_name": "Kai Olaf",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6049-8873",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Ketelhut, Kai Olaf",
+          "type": "personal"
+        },
+        "role": {
+          "id": "datacurator",
+          "title": {
+            "de": "DatenkuratorIn",
+            "en": "Data curator"
+          }
+        }
+      }
+    ],
+    "description": "<p>Book software&nbsp;</p>",
+    "publication_date": "2026-09-26",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "lesson",
+      "title": {
+        "de": "Unterrichtseinheit",
+        "en": "Lesson"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "EULA oeneye OS"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1552517"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "default": "a76481fd-5cbc-4667-9465-5378cfecec7c",
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "members",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2026-02-20T17:40:46.712358+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "a76481fd-5cbc-4667-9465-5378cfecec7c",
+          "links": {},
+          "metadata": {
+            "curation_policy": "<p>https://d-nb.info/1417341459/34</p>",
+            "description": "https://d-nb.info/1417228393/34",
+            "page": "<p>https://d-nb.info/1417228393/34</p>",
+            "title": "Ostpreu\u00dfen-russe-Gakush\u016bjo Further Education College",
+            "type": {
+              "id": "organization"
+            },
+            "website": "https://acrobat.adobe.com/id/urn:aaid:sc:EU:fc88b847-5258-47ab-90dc-e792b8086914"
+          },
+          "revision_id": 11,
+          "slug": "org-curatorium",
+          "updated": "2026-09-07T13:57:11.234872+00:00"
+        }
+      ],
+      "ids": [
+        "a76481fd-5cbc-4667-9465-5378cfecec7c"
+      ]
+    },
+    "id": "22978005",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.22978005",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.22978006",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:22978006",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 4,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-09-26T13:17:16.067779+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}

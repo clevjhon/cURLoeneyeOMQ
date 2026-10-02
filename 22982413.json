@@ -1,0 +1,447 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-09-26T19:54:11.495784+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 5,
+    "enabled": true,
+    "entries": {
+      "OENEYE_EULA (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e598e4f0d7d64bc95107a8fc1904c868",
+        "ext": "pdf",
+        "id": "ea44ae0b-fe0d-4850-862a-a74a5bda4848",
+        "key": "OENEYE_EULA (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22982413/canvas/OENEYE_EULA%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 116484,
+        "storage_class": "L"
+      },
+      "OENEYE_EULA (2).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:306eb1accc2d2cfdf03cf18bebaa3d95",
+        "ext": "pdf",
+        "id": "66a037ae-c9fb-45eb-925a-e287ebb87142",
+        "key": "OENEYE_EULA (2).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA%20(2).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(2).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(2).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22982413/canvas/OENEYE_EULA%20(2).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(2).pdf/info.json",
+          "self": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA%20(2).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 105998,
+        "storage_class": "L"
+      },
+      "OENEYE_EULA.md": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c34c8ec37f6a32ef1422ee7e855b2590",
+        "ext": "md",
+        "id": "1b3adba7-e10d-4e6e-a40c-22b1efa2c95f",
+        "key": "OENEYE_EULA.md",
+        "links": {
+          "content": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA.md/content",
+          "self": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA.md"
+        },
+        "metadata": {},
+        "mimetype": "text/markdown",
+        "size": 3987,
+        "storage_class": "L"
+      },
+      "OENEYE_EULA.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:df6436f1807bc7795b6d6def8ca5b529",
+        "ext": "pdf",
+        "id": "29927499-0f30-499f-80f1-1541d45d52e4",
+        "key": "OENEYE_EULA.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22982413/canvas/OENEYE_EULA.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 102923,
+        "storage_class": "L"
+      },
+      "Unified Master Framework oeneye and Inertia Probability (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:02ec4a8d42e9d8d127e6bf261d63bb63",
+        "ext": "pdf",
+        "id": "51c0802c-c700-4191-93ac-a98cffcd2a16",
+        "key": "Unified Master Framework oeneye and Inertia Probability (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22982413/files/Unified%20Master%20Framework%20oeneye%20and%20Inertia%20Probability%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22982413:Unified%20Master%20Framework%20oeneye%20and%20Inertia%20Probability%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22982413:Unified%20Master%20Framework%20oeneye%20and%20Inertia%20Probability%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22982413/canvas/Unified%20Master%20Framework%20oeneye%20and%20Inertia%20Probability%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22982413:Unified%20Master%20Framework%20oeneye%20and%20Inertia%20Probability%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/22982413/files/Unified%20Master%20Framework%20oeneye%20and%20Inertia%20Probability%20(1).pdf"
+        },
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 27151,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 356543
+  },
+  "id": "22982413",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/22982413/access",
+    "access_grants": "https://zenodo.org/api/records/22982413/access/grants",
+    "access_links": "https://zenodo.org/api/records/22982413/access/links",
+    "access_request": "https://zenodo.org/api/records/22982413/access/request",
+    "access_users": "https://zenodo.org/api/records/22982413/access/users",
+    "archive": "https://zenodo.org/api/records/22982413/files-archive",
+    "archive_media": "https://zenodo.org/api/records/22982413/media-files-archive",
+    "communities": "https://zenodo.org/api/records/22982413/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/22982413/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.22982413",
+    "draft": "https://zenodo.org/api/records/22982413/draft",
+    "file_modification": "https://zenodo.org/api/records/22982413/file-modification",
+    "files": "https://zenodo.org/api/records/22982413/files",
+    "latest": "https://zenodo.org/api/records/22982413/versions/latest",
+    "latest_html": "https://zenodo.org/records/22982413/latest",
+    "media_files": "https://zenodo.org/api/records/22982413/media-files",
+    "parent": "https://zenodo.org/api/records/22978005",
+    "parent_doi": "https://doi.org/10.5281/zenodo.22978005",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.22978005",
+    "parent_html": "https://zenodo.org/records/22978005",
+    "preview_html": "https://zenodo.org/records/22982413?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/22982413/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/22982413/request-deletion",
+    "requests": "https://zenodo.org/api/records/22982413/requests",
+    "reserve_doi": "https://zenodo.org/api/records/22982413/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/22982413",
+    "self_doi": "https://doi.org/10.5281/zenodo.22982413",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.22982413",
+    "self_html": "https://zenodo.org/records/22982413",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:22982413/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:22982413/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(2).pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(2).pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(2).pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(2).pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(2).pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:22982413:OENEYE_EULA%20(2).pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/22982413/versions"
+  },
+  "media_files": {
+    "count": 4,
+    "enabled": true,
+    "entries": {
+      "OENEYE_EULA (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "a1f3d6e4-d172-4026-a3df-0fca8d9fce71",
+        "key": "OENEYE_EULA (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "ea44ae0b-fe0d-4850-862a-a74a5bda4848",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "OENEYE_EULA (2).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "3c157700-6580-448f-b29c-cdb6a8585938",
+        "key": "OENEYE_EULA (2).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA%20(2).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA%20(2).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "66a037ae-c9fb-45eb-925a-e287ebb87142",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "OENEYE_EULA.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "134cbb0b-4775-433d-917b-b7ec338f120a",
+        "key": "OENEYE_EULA.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22982413/files/OENEYE_EULA.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "29927499-0f30-499f-80f1-1541d45d52e4",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "Unified Master Framework oeneye and Inertia Probability (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "bb898539-4204-4d2a-99b8-19a1c1b03da0",
+        "key": "Unified Master Framework oeneye and Inertia Probability (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22982413/files/Unified%20Master%20Framework%20oeneye%20and%20Inertia%20Probability%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22982413/files/Unified%20Master%20Framework%20oeneye%20and%20Inertia%20Probability%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "51c0802c-c700-4191-93ac-a98cffcd2a16",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "03ceayq64",
+            "identifiers": [
+              {
+                "identifier": "03ceayq64",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.481608.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0525 3365",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Rheinmetall (Switzerland)"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Ketelhut",
+          "given_name": "Kai Olaf",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6049-8873",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Ketelhut, Kai Olaf",
+          "type": "personal"
+        },
+        "role": {
+          "id": "datacurator",
+          "title": {
+            "de": "DatenkuratorIn",
+            "en": "Data curator"
+          }
+        }
+      }
+    ],
+    "description": "<p>Book software&nbsp;</p>",
+    "publication_date": "2026-09-26",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "lesson",
+      "title": {
+        "de": "Unterrichtseinheit",
+        "en": "Lesson"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "EULA oeneye OS"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1552517"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "default": "a76481fd-5cbc-4667-9465-5378cfecec7c",
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "members",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2026-02-20T17:40:46.712358+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "a76481fd-5cbc-4667-9465-5378cfecec7c",
+          "links": {},
+          "metadata": {
+            "curation_policy": "<p>https://d-nb.info/1417341459/34</p>",
+            "description": "https://d-nb.info/1417228393/34",
+            "page": "<p>https://d-nb.info/1417228393/34</p>",
+            "title": "Ostpreu\u00dfen-russe-Gakush\u016bjo Further Education College",
+            "type": {
+              "id": "organization"
+            },
+            "website": "https://acrobat.adobe.com/id/urn:aaid:sc:EU:fc88b847-5258-47ab-90dc-e792b8086914"
+          },
+          "revision_id": 11,
+          "slug": "org-curatorium",
+          "updated": "2026-09-07T13:57:11.234872+00:00"
+        }
+      ],
+      "ids": [
+        "a76481fd-5cbc-4667-9465-5378cfecec7c"
+      ]
+    },
+    "id": "22978005",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.22978005",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.22982413",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:22982413",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 4,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 1,
+      "views": 2
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-09-26T19:54:12.054584+00:00",
+  "versions": {
+    "index": 2,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
