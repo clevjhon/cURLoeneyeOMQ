@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "title": "Technical Monograph and Verification Suite for the oeneye Kernel Architecture",
+        "upload_type": "publication",
+        "publication_type": "technicalnote",
+        "description": "Formal invariant verification, virtual runtime memory mapping, interactive Chaosnet session handshaking, and audited chunked data streaming pipeline for the oeneye operating system architecture.",
+        "creators": [
+            {
+                "name": "Ketelhut, Kai Olaf",
+                "affiliation": "Berlin, Germany"
+            }
+        ],
+        "access_right": "open",
+        "license": "cc-by-4.0",
+        "keywords": [
+            "oeneye",
+            "kernel architecture",
+            "Chaosnet",
+            "ReFS",
+            "FSRS",
+            "formal verification"
+        ],
+        "notes": "Archival package compiled on 2026-09-27T13:15:34.383876+00:00."
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "system": "oeneyeOS / MOSFETQ DOS",
+  "specification": "Release Candidate v0.4",
+  "author": "Kai Olaf Ketelhut",
+  "version_matrix": {
+    "runtime_core": "v20.0",
+    "kernel_core": "v0.2",
+    "developer_kit": "SDK v23"
+  },
+  "active_drives": {
+    "A": "test.ximg"
+  },
+  "filesystem": "FAT12",
+  "mounted_assets": [
+    {
+      "filename": "OMQ.FNT",
+      "size_bytes": 0,
+      "cluster": 2,
+      "status": "Ready for rendering pipeline"
+    }
+  ]
+}

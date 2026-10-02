@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Starting oeneye-refs.img with VNC..."
+qemu-system-x86_64 -m 2G -drive file=oeneye-refs.img,format=raw -smp 2 -net nic -net user -vnc 127.0.0.1:0

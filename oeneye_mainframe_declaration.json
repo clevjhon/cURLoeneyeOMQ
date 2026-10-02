@@ -1,0 +1,18 @@
+{
+  "oeneye_codex_id": "2026-0812-CNNN3-BK01-MAINFRAME-01",
+  "system_target": "oeneyeOS-kernel-bridge",
+  "source_declaration": {
+    "zenodo_id": "21679833",
+    "doi": "10.5281/zenodo.21679833",
+    "title": "Obsidian Brain Mainframe Declaration",
+    "author": "Kai Olaf Ketelhut",
+    "location": "Berlin, Germany",
+    "identifier": "QUANTUMTHERMOSTATIC-CORE-01",
+    "architecture": "Solid-State / Quantum Zero Framework",
+    "operational_sprint": "3-Month Clinical & Technical Roadmap",
+    "ftp_account": "qt_mainframe_ftp",
+    "access_level": "Secure Restricted (Bank-Grade Encryption Compliant)",
+    "protocol": "SFTP / FTPS over Calibrated Inertial Thresholds",
+    "authentication": "Public Key Infrastructure (PKI) + Zero-Trust Runtime Verification"
+  }
+}

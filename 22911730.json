@@ -1,0 +1,295 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-09-23T07:19:17.779427+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "copilot_image_1790147720853.jpeg": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a34209d3b07ff30ace03e0c1df446ac3",
+        "ext": "jpg",
+        "id": "498d1abe-5e39-4dcc-ada8-e0b3a2f27ee5",
+        "key": "copilot_image_1790147720853.jpeg",
+        "links": {
+          "content": "https://zenodo.org/api/records/22911730/files/copilot_image_1790147720853.jpeg/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22911730:copilot_image_1790147720853.jpeg/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22911730:copilot_image_1790147720853.jpeg",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22911730/canvas/copilot_image_1790147720853.jpeg",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22911730:copilot_image_1790147720853.jpeg/info.json",
+          "self": "https://zenodo.org/api/records/22911730/files/copilot_image_1790147720853.jpeg"
+        },
+        "metadata": {
+          "height": 1536,
+          "width": 1024
+        },
+        "mimetype": "image/jpeg",
+        "size": 745202,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 745202
+  },
+  "id": "22911730",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/22911730/access",
+    "access_grants": "https://zenodo.org/api/records/22911730/access/grants",
+    "access_links": "https://zenodo.org/api/records/22911730/access/links",
+    "access_request": "https://zenodo.org/api/records/22911730/access/request",
+    "access_users": "https://zenodo.org/api/records/22911730/access/users",
+    "archive": "https://zenodo.org/api/records/22911730/files-archive",
+    "archive_media": "https://zenodo.org/api/records/22911730/media-files-archive",
+    "communities": "https://zenodo.org/api/records/22911730/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/22911730/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.22911730",
+    "draft": "https://zenodo.org/api/records/22911730/draft",
+    "file_modification": "https://zenodo.org/api/records/22911730/file-modification",
+    "files": "https://zenodo.org/api/records/22911730/files",
+    "latest": "https://zenodo.org/api/records/22911730/versions/latest",
+    "latest_html": "https://zenodo.org/records/22911730/latest",
+    "media_files": "https://zenodo.org/api/records/22911730/media-files",
+    "parent": "https://zenodo.org/api/records/22911729",
+    "parent_doi": "https://doi.org/10.5281/zenodo.22911729",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.22911729",
+    "parent_html": "https://zenodo.org/records/22911729",
+    "preview_html": "https://zenodo.org/records/22911730?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/22911730/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/22911730/request-deletion",
+    "requests": "https://zenodo.org/api/records/22911730/requests",
+    "reserve_doi": "https://zenodo.org/api/records/22911730/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/22911730",
+    "self_doi": "https://doi.org/10.5281/zenodo.22911730",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.22911730",
+    "self_html": "https://zenodo.org/records/22911730",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:22911730/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:22911730/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:22911730:copilot_image_1790147720853.jpeg/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:22911730:copilot_image_1790147720853.jpeg/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:22911730:copilot_image_1790147720853.jpeg/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:22911730:copilot_image_1790147720853.jpeg/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:22911730:copilot_image_1790147720853.jpeg/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:22911730:copilot_image_1790147720853.jpeg/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/22911730/versions"
+  },
+  "media_files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "copilot_image_1790147720853.jpeg.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "6fede687-c7a4-4c21-877d-7a55aa9f6248",
+        "key": "copilot_image_1790147720853.jpeg.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22911730/files/copilot_image_1790147720853.jpeg.ptif/content",
+          "self": "https://zenodo.org/api/records/22911730/files/copilot_image_1790147720853.jpeg.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "498d1abe-5e39-4dcc-ada8-e0b3a2f27ee5",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "03ceayq64",
+            "identifiers": [
+              {
+                "identifier": "03ceayq64",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.481608.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0525 3365",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Rheinmetall (Switzerland)"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Ketelhut",
+          "given_name": "Kai Olaf",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6049-8873",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Ketelhut, Kai Olaf",
+          "type": "personal"
+        },
+        "role": {
+          "id": "rightsholder",
+          "title": {
+            "de": "RechteinhaberIn",
+            "en": "Rights holder"
+          }
+        }
+      }
+    ],
+    "description": "<p>978-3-00-068463-0</p>",
+    "publication_date": "2026-09-23",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "publication-book",
+      "title": {
+        "de": "Buch",
+        "en": "Book"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "%%Sample"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1552517"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "default": "a76481fd-5cbc-4667-9465-5378cfecec7c",
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "members",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2026-02-20T17:40:46.712358+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "a76481fd-5cbc-4667-9465-5378cfecec7c",
+          "links": {},
+          "metadata": {
+            "curation_policy": "<p>https://d-nb.info/1417341459/34</p>",
+            "description": "https://d-nb.info/1417228393/34",
+            "page": "<p>https://d-nb.info/1417228393/34</p>",
+            "title": "Ostpreu\u00dfen-russe-Gakush\u016bjo Further Education College",
+            "type": {
+              "id": "organization"
+            },
+            "website": "https://acrobat.adobe.com/id/urn:aaid:sc:EU:fc88b847-5258-47ab-90dc-e792b8086914"
+          },
+          "revision_id": 11,
+          "slug": "org-curatorium",
+          "updated": "2026-09-07T13:57:11.234872+00:00"
+        }
+      ],
+      "ids": [
+        "a76481fd-5cbc-4667-9465-5378cfecec7c"
+      ]
+    },
+    "id": "22911729",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.22911729",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.22911730",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:22911730",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 4,
+  "stats": {
+    "all_versions": {
+      "data_volume": 1490404.0,
+      "downloads": 2,
+      "unique_downloads": 2,
+      "unique_views": 7,
+      "views": 7
+    },
+    "this_version": {
+      "data_volume": 1490404.0,
+      "downloads": 2,
+      "unique_downloads": 2,
+      "unique_views": 7,
+      "views": 7
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-09-23T07:19:18.173451+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}

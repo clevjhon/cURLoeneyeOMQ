@@ -1,0 +1,27 @@
+\documentclass{article}
+\usepackage{oeneye-font}
+
+\begin{document}
+
+\begin{center}
+    {\Huge \textoeneye{oeneyeOS Kernel Specifications}} \\[1em]
+    {\Large \textoeneye{Subsystem Architecture \& Operator Framework}} \\[2em]
+    \textbf{Author:} Kai Olaf Ketelhut \\
+    \textbf{Target Architecture:} x86 / Emulated Legacy Runtime \\
+    \today
+\end{center}
+
+\hrule
+\vspace{1.5em}
+
+\section*{\textoeneye{1. Overview}}
+The \textoeneye{oeneyeOS} runtime architecture couples low-level binary image structures with deterministic operator pipelines. By utilizing extracted raw bitmap font containers (`OMQ.FNT`) transformed into scalable vector fonts, all diagnostic readouts and low-level subsystem logs maintain pixel-exact fidelity across documentation targets.
+
+\section*{\textoeneye{2. Core Subsystems}}
+\begin{itemize}
+    \item \textoeneye{Memory Manager}: Direct segment mapping and localized allocation tracking.
+    \item \textoeneye{Operator Kernel}: Symbolic execution loop running autopoietic routines.
+    \item \textoeneye{Rendering Pipeline}: Vector-mapped bitmap font integration via XeLaTeX.
+\end{itemize}
+
+\end{document}

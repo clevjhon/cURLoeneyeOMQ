@@ -1,0 +1,15 @@
+oeneye sufficient image v2
+==========================
+logo.png       Official oeneye logo (infinity eyes)
+oeneye256.png  256 px icon
+loginbg.png    1920x1080 login background
+mosfetq.img    Bootable 1.44 MB MOSFETQ DOS 0.1 floppy (just assembled)
+mosfetq.bin    Raw boot+kernel binary (1862 bytes)
+mosfetq.s      Source (16-bit real mode)
+build.sh       Original build script
+emu.py         Emulator helper
+mkimage.py     Image builder
+README.TXT     Original notes
+
+Boot the floppy with:
+  qemu-system-i386 -fda mosfetq.img

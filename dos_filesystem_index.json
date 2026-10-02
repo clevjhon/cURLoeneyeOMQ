@@ -1,0 +1,12 @@
+{
+  "virtual_drive": "C:\\OENEYE",
+  "system_identifier": "QUANTUMTHERMOSTATIC-CORE-01",
+  "files": [
+    {
+      "filename": "MAINFRAME.DAT",
+      "zenodo_id": "21679833",
+      "path": "C:\\OENEYE\\TELEMETRY\\MAINFRAME.DAT",
+      "description": "Obsidian Brain Mainframe Declaration parameters"
+    }
+  ]
+}

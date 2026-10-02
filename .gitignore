@@ -1,0 +1,32 @@
+# Build artifacts & logs
+*.aux
+*.log
+*.pdf
+*.toc
+missfont.log
+
+# Backups, archives & disc images
+*.tar.gz
+*.iso
+manifest.sha256
+workspace/
+oeneye_vault/
+mnt_D/
+
+# Temporary and legacy utility scripts
+emu_*.py
+fix_*.py
+inspect_*.py
+patch_*.py
+wipe_*.py
+update_dir_hook.py
+upload_backup.py
+sweep_mount.py
+purge_mount_syntax.py
+sanitize_emu.py
+setup_sdk_v23.py
+sync_hub.py
+tall_texlive-installer
+texlive_profile
+oeneye-refs-vhd-converted.img
+*.apk

@@ -1,0 +1,20 @@
+\ProvidesPackage{oeneye-font}
+\RequirePackage{fontspec}
+
+\setmainfont{OMQ}[
+    Path = ./,
+    Extension = .ttf,
+    Scale = MatchLowercase,
+    Ligatures = {Common, TeX}
+]
+
+\newfontfamily\oeneyefont{OMQ}[
+    Path = ./,
+    Extension = .ttf,
+    Scale = MatchLowercase,
+    Ligatures = {Common, TeX}
+]
+
+\newcommand{\textoeneye}[1]{{\oeneyefont #1}}
+
+\endinput

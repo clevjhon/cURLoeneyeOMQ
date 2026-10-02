@@ -1,0 +1,21 @@
+# Rheinmetall India Enterprise CV
+## Enterprise Systems & Architecture Node
+
+**Track ID:** 2026-0812-CNNN3-1031-BK00-AK47
+**Entity:** Kai Ketelhut (Dipl.-Ing. / Patent Engineer)
+**Operations:** Berlin / India
+
+### ERP Ledger Nodes
+* CNNN3-oeneyeSAP-ERP-FI
+* CNNN3-oeneyeSAP-ERP-CO
+* CNNN3-oeneyeSAP-ERP-MM
+* CNNN3-oeneyeSAP-ERP-SD
+* CNNN3-oeneyeSAP-ERP-PP
+
+### CV / Card Entity Nodes
+* Rheinmetall-India-Enterprise-Systems-PROFILE
+* Rheinmetall-India-Enterprise-Systems-CREDENTIALS
+* Rheinmetall-India-Enterprise-Systems-COMPLIANCE
+* Rheinmetall-India-Enterprise-Systems-LEDGERS
+* Rheinmetall-India-Enterprise-Systems-DEPLOYMENT
+

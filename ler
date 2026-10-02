@@ -1,0 +1,9 @@
+[32mtexlive-bin[0m/stable,now 1:2026.0 aarch64 [installed]
+  TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
+
+[32mtexlive-bin-static[0m/stable 1:2026.0 aarch64
+  Static libraries for texlive-bin
+
+[32mtexlive-installer[0m/stable,now 20260301 all [installed]
+  Wrapper around texlive's install-tl script
+

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "title": "Architectural Systemics of oeneyeOS: Automated Telemetry and S 4.3 Radiation Security Confinement",
+    "upload_type": "publication",
+    "publication_type": "section",
+    "creators": [
+      {
+        "name": "Ketelhut, Kai Olaf",
+        "affiliation": "Independent Researcher"
+      }
+    ],
+    "description": "This monograph details the software-defined proxy control loops and telemetry architectures implemented within the oeneyeOS environment, integrating GMT-X temporal synchronization, 5:6 harmonic gear ratios, and S 4.3 Maximum Radiant Density confinement frameworks.",
+    "keywords": [
+      "oeneyeOS",
+      "GMT-X temporal sync",
+      "S 4.3 radiation security",
+      "MIL-STD-8C grounding",
+      "Termux architecture"
+    ]
+  }
+}

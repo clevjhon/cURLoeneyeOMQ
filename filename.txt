@@ -1,0 +1,3 @@
+Line one of your script
+Line two of your script
+New line appended automatically

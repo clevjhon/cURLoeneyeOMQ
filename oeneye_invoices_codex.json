@@ -1,0 +1,17 @@
+[
+  {
+    "oeneye_codex_id": "2026-0812-CNNN3-BK01-01",
+    "runtime_context": "oeneyeOS-kernel-bridge",
+    "invoice_record": {
+      "id": 1,
+      "invoice_date": "2026-09-13",
+      "isbn": "978-3-00-068463-0",
+      "item_description": "Reference Publication (ISBN: 978-3-00-068463-0)",
+      "runtime_status": "intercepted",
+      "payment_gateway": "https://bunq.me/9783000684630",
+      "net_amount_eur": 21.0,
+      "vat_amount_eur": 1.47,
+      "total_amount_eur": 22.47
+    }
+  }
+]

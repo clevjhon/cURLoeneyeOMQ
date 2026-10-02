@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OENEYE Ecosystem - Complete Volume Stream Dashboard</title>
+    <style>
+        body { margin: 0; background: #0b0f0c; color: #00ff66; font-family: 'Courier New', Courier, monospace; padding: 20px; }
+        h1 { border-bottom: 2px solid #00ff66; padding-bottom: 10px; color: #fff; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin-top: 20px; }
+        .asset-card { border: 1px solid #00ff66; background: #050806; padding: 15px; box-shadow: 0 0 10px rgba(0,255,102,0.1); }
+        .badge { background: #00ff66; color: #050806; padding: 2px 6px; font-size: 9pt; float: right; font-weight: bold; }
+        .meta { font-size: 9pt; color: #88ffbb; margin-bottom: 10px; }
+        pre { background: #020403; border: 1px solid #004411; padding: 10px; max-height: 200px; overflow-y: auto; white-space: pre-wrap; font-size: 10pt; }
+    </style>
+</head>
+<body>
+    <h1>OENEYE DOS Ecosystem - Directory Stream Index</h1>
+    <p>Automated forensic extraction report for <strong>mosfetq-dos.img</strong> virtual volume assets.</p>
+    <div class="grid">
+        
+        <div class="asset-card">
+            <h3>README.TXT <span class="badge">FILE</span></h3>
+            <div class="meta">Cluster: 2 | Size: 106 bytes</div>
+            <pre>MOSFETQ DOS 0.2 reads this file from a real FAT12 volume.
+The kernel walks the FAT cluster chain itself.
+</pre>
+        </div>
+        
+        <div class="asset-card">
+            <h3>HELLO.TXT <span class="badge">FILE</span></h3>
+            <div class="meta">Cluster: 3 | Size: 22 bytes</div>
+            <pre>Hello from the disk!
+</pre>
+        </div>
+        
+        <div class="asset-card">
+            <h3>LONG.TXT <span class="badge">FILE</span></h3>
+            <div class="meta">Cluster: 4 | Size: 2240 bytes</div>
+            <pre>Line 001: the quick brown fox jumps over the lazy dog.
+Line 002: the quick brown fox jumps over the lazy dog.
+Line 003: the quick brown fox jumps over the lazy dog.
+Line 004: the quick brown fox jumps over the lazy dog.
+Line 005: the quick brown fox jumps over the lazy dog.
+Line 006: the quick brown fox jumps over the lazy dog.
+Line 007: the quick brown fox jumps over the lazy dog.
+Line 008...</pre>
+        </div>
+        
+        <div class="asset-card">
+            <h3>FRAG.TXT <span class="badge">FILE</span></h3>
+            <div class="meta">Cluster: 9 | Size: 2800 bytes</div>
+            <pre>FRAG 001 ---------------------------------------------
+FRAG 002 ---------------------------------------------
+FRAG 003 ---------------------------------------------
+FRAG 004 ---------------------------------------------
+FRAG 005 ---------------------------------------------
+FRAG 006 ---------------------------------------------
+FRAG 007 ---------------------------------------------
+FRAG 008...</pre>
+        </div>
+        
+        <div class="asset-card">
+            <h3>PAD.BIN <span class="badge">FILE</span></h3>
+            <div class="meta">Cluster: 10 | Size: 3760 bytes</div>
+            <pre>!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~!"#$%&'()*+,-./012345678...</pre>
+        </div>
+        
+        <div class="asset-card">
+            <h3>BIG.TXT <span class="badge">FILE</span></h3>
+            <div class="meta">Cluster: 23 | Size: 70000 bytes</div>
+            <pre>BIG 00001 ==========================================
+BIG 00002 ==========================================
+BIG 00003 ==========================================
+BIG 00004 ==========================================
+BIG 00005 ==========================================
+BIG 00006 ==========================================
+BIG 00007 ==========================================
+BIG 00008 ============...</pre>
+        </div>
+        
+        <div class="asset-card">
+            <h3>DOCS <span class="badge">DIR</span></h3>
+            <div class="meta">Cluster: N/A | Size: 0 bytes</div>
+            <pre>[Directory Node]</pre>
+        </div>
+        
+    </div>
+
+    <div class="asset-card" style="grid-column: 1 / -1; border-color: #00ff66; background: #020503;">
+        <h3>OENEYE Kernel Telemetry Stream <span class="badge" style="background:#ff5555; color:#fff;">LIVE</span></h3>
+        <div class="meta">Connected to endpoint: /live-stream</div>
+        <pre id="log-console" style="height: 150px; background: #000; color: #00ff66; overflow-y: auto;">Initializing telemetry stream...</pre>
+    </div>
+
+    <script>
+        const consoleEl = document.getElementById('log-console');
+        const evtSource = new EventSource('/live-stream');
+        
+        evtSource.onopen = function() {
+            consoleEl.textContent = "[*] Telemetry stream connected successfully.\n";
+        };
+
+        evtSource.onmessage = function(event) {
+            consoleEl.textContent += event.data + "\n";
+            consoleEl.scrollTop = consoleEl.scrollHeight;
+        };
+
+        evtSource.onerror = function(err) {
+            consoleEl.textContent += "[-] Stream connection lost. Retrying...\n";
+        };
+    </script>
+</body>
+</html>
+
+</html>

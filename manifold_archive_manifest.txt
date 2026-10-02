@@ -1,0 +1,23 @@
+--- SHA256 CHECKSUMS ---
+b13687150bffc1a5f587243f77ca28486961a0a81ec6fbefb57a8a5b126c1c7c  86_dos_v0.1_original.img
+1301c145e44fb65b0137854c8bca730f05fb98ffbfe18e03cf4020a70033dd93  truth_post.html
+
+# Manifold Integration Details
+* **Track ID:** 2026-0812-CNNN3-1031-BK00-AK47L
+* **Topology:** Void Vector L-Manifold of 3
+* **Status:** Verified and combined successfully.
+
+--- NEW ASSET CHECK=========
+76070b83f17793f317570e864b9f2914174b306d1a4a43908a8d5639b428181d  chapter_architecture.pdf
+* **Module:** chapter_architecture.pdf integrated into Void Vector L-Manifold of 3.
+* **Status:** Verified and locked.
+
+--- NEW ASSET CHECK=========
+76070b83f17793f317570e864b9f2914174b306d1a4a43908a8d5639b428181d  chapter_architecture.pdf
+* **Module:** chapter_architecture.pdf integrated into Void Vector L-Manifold of 3.
+* **Status:** Verified and locked.
+
+--- NEW PUBLICATIONS CHECK ---
+76070b83f17793f317570e864b9f2914174b306d1a4a43908a8d5639b428181d  dnb_publication.pdf
+76070b83f17793f317570e864b9f2914174b306d1a4a43908a8d5639b428181d  nbn_resource.pdf
+95bb161066969acd9f5ae939fdd0c17c382b65a4a05202a24f34e23073a9b9c2  test_oeneye.pdf

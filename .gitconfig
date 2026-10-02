@@ -1,0 +1,11 @@
+[user]
+    name = Kai Olaf Ketelhut
+    email = clevjhon@users.noreply.github.com
+[credential]
+	helper = store
+[credential "https://github.com"]
+    helper = 
+    helper = !/data/data/com.termux/files/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+    helper = 
+    helper = !/data/data/com.termux/files/usr/bin/gh auth git-credential

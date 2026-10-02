@@ -1,0 +1,1609 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-09-25T12:14:35.594585+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 55,
+    "default_preview": "oeneyeasm(1).pdf",
+    "enabled": true,
+    "entries": {
+      "DOSoeneyeNT.img": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a8da3598b1f640d525fde86c5916f185",
+        "ext": "img",
+        "id": "4c197f1a-d4b2-47ac-a7b1-b0fe967d6113",
+        "key": "DOSoeneyeNT.img",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/DOSoeneyeNT.img/content",
+          "self": "https://zenodo.org/api/records/22958760/files/DOSoeneyeNT.img"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 16777216,
+        "storage_class": "L"
+      },
+      "NToeneyeDOS.img": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:de1064bd66b761703293a3aa516a8bbf",
+        "ext": "img",
+        "id": "01a583f2-e5c3-4742-a6c5-3af8a883053f",
+        "key": "NToeneyeDOS.img",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/NToeneyeDOS.img/content",
+          "self": "https://zenodo.org/api/records/22958760/files/NToeneyeDOS.img"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 16777216,
+        "storage_class": "L"
+      },
+      "OENEYE_Spool_Plate_v1.0.img": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:40c237c39807c9f7100f9c5dfca2ba32",
+        "ext": "img",
+        "id": "23d9fb9d-0537-49e4-999c-00ea133fc728",
+        "key": "OENEYE_Spool_Plate_v1.0.img",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/OENEYE_Spool_Plate_v1.0.img/content",
+          "self": "https://zenodo.org/api/records/22958760/files/OENEYE_Spool_Plate_v1.0.img"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 16777216,
+        "storage_class": "L"
+      },
+      "README.txt": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4839ce912d587783bbb86f12cfad8218",
+        "ext": "txt",
+        "id": "8e0bea77-cef0-41ca-9e62-94511ef8a067",
+        "key": "README.txt",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/README.txt/content",
+          "self": "https://zenodo.org/api/records/22958760/files/README.txt"
+        },
+        "metadata": {},
+        "mimetype": "text/plain",
+        "size": 3055,
+        "storage_class": "L"
+      },
+      "build-oeneyeDongle-linux-cd.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f657a28525a800142316fc1f8593951c",
+        "ext": "pdf",
+        "id": "1902afaa-8c30-48e7-b29d-1e844b86c293",
+        "key": "build-oeneyeDongle-linux-cd.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux-cd.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeDongle-linux-cd.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeDongle-linux-cd.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/build-oeneyeDongle-linux-cd.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeDongle-linux-cd.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux-cd.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 19803,
+        "storage_class": "L"
+      },
+      "build-oeneyeDongle-linux-cd.sh": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c434dc380f0dbaf25a9a56a70acd3707",
+        "ext": "sh",
+        "id": "f5a9080b-f537-47af-9cb0-bb42aa9653c7",
+        "key": "build-oeneyeDongle-linux-cd.sh",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux-cd.sh/content",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux-cd.sh"
+        },
+        "metadata": {},
+        "mimetype": "application/x-sh",
+        "size": 2521,
+        "storage_class": "L"
+      },
+      "build-oeneyeDongle-linux.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:42eae8931220639e5b4d8281a2fae25b",
+        "ext": "pdf",
+        "id": "e646e18d-0a1b-4367-8927-20548612b629",
+        "key": "build-oeneyeDongle-linux.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeDongle-linux.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeDongle-linux.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/build-oeneyeDongle-linux.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeDongle-linux.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 22767,
+        "storage_class": "L"
+      },
+      "build-oeneyeDongle-linux.sh": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2cfee1859df00f486a4250bdc190f1f0",
+        "ext": "sh",
+        "id": "316f542d-d5b7-44d7-af4e-63d93d30856e",
+        "key": "build-oeneyeDongle-linux.sh",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux.sh/content",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux.sh"
+        },
+        "metadata": {},
+        "mimetype": "application/x-sh",
+        "size": 3919,
+        "storage_class": "L"
+      },
+      "build-oeneyeLinux (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9fc42b856cc1ad3dd892c57b619aaab1",
+        "ext": "pdf",
+        "id": "499521e8-e9a1-4142-94c4-55d0d11dc468",
+        "key": "build-oeneyeLinux (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeLinux%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeLinux%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeLinux%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/build-oeneyeLinux%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeLinux%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeLinux%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 27726,
+        "storage_class": "L"
+      },
+      "build-oeneyeLinux.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1ed58d5b76459625be66c994a46b265c",
+        "ext": "pdf",
+        "id": "68491732-7ff3-4c37-9418-c38a03af13bf",
+        "key": "build-oeneyeLinux.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeLinux.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeLinux.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeLinux.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/build-oeneyeLinux.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:build-oeneyeLinux.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeLinux.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 25466,
+        "storage_class": "L"
+      },
+      "build-oeneyeLinux.sh": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e7211330784f40ca8004d0084c9ec0ec",
+        "ext": "sh",
+        "id": "8b0f1f3c-f8ff-43d4-960e-a64cf248de9e",
+        "key": "build-oeneyeLinux.sh",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeLinux.sh/content",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeLinux.sh"
+        },
+        "metadata": {},
+        "mimetype": "application/x-sh",
+        "size": 6689,
+        "storage_class": "L"
+      },
+      "fatcheck.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:874143802c341833dbcdf55a1f39d8ca",
+        "ext": "pdf",
+        "id": "e36245da-9441-48a0-b276-88c9621228f3",
+        "key": "fatcheck.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/fatcheck.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:fatcheck.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:fatcheck.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/fatcheck.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:fatcheck.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/fatcheck.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 20513,
+        "storage_class": "L"
+      },
+      "fatcheck.py": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d8be6aaf763f2b2f36c446efb2cea781",
+        "ext": "py",
+        "id": "52dbea0e-0629-4243-b20f-789d03378d29",
+        "key": "fatcheck.py",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/fatcheck.py/content",
+          "self": "https://zenodo.org/api/records/22958760/files/fatcheck.py"
+        },
+        "metadata": {},
+        "mimetype": "text/x-python",
+        "size": 3544,
+        "storage_class": "L"
+      },
+      "guest_ping.asm": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a9bc04476108ca20598d23c273465542",
+        "ext": "asm",
+        "id": "a4880275-7833-4800-9b8a-2d0b263683ca",
+        "key": "guest_ping.asm",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/guest_ping.asm/content",
+          "self": "https://zenodo.org/api/records/22958760/files/guest_ping.asm"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 646,
+        "storage_class": "L"
+      },
+      "guest_pong.asm": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a1f700214495fda25f7e0d8e90b91226",
+        "ext": "asm",
+        "id": "90d0722d-be92-4d77-a368-f2e4226ea4b2",
+        "key": "guest_pong.asm",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/guest_pong.asm/content",
+          "self": "https://zenodo.org/api/records/22958760/files/guest_pong.asm"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 545,
+        "storage_class": "L"
+      },
+      "install.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9a514572a4e7f5bb28c6e3302fd0b84f",
+        "ext": "pdf",
+        "id": "e41adebe-b001-4d7a-8098-369caa08cb5d",
+        "key": "install.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/install.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:install.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:install.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/install.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:install.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/install.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 19183,
+        "storage_class": "L"
+      },
+      "install.sh": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3f7359f7003bfedab410e73d274dff4a",
+        "ext": "sh",
+        "id": "6b6e4f85-08f4-465d-8318-a7c2e5d57800",
+        "key": "install.sh",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/install.sh/content",
+          "self": "https://zenodo.org/api/records/22958760/files/install.sh"
+        },
+        "metadata": {},
+        "mimetype": "application/x-sh",
+        "size": 2409,
+        "storage_class": "L"
+      },
+      "mosfetq-dos-1.0.0.0.0-dev-1200.img": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:630be08d27451b881a5ddb67e49057a8",
+        "ext": "img",
+        "id": "79d1095b-10a3-43f1-adba-7d9f5d190c2e",
+        "key": "mosfetq-dos-1.0.0.0.0-dev-1200.img",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/mosfetq-dos-1.0.0.0.0-dev-1200.img/content",
+          "self": "https://zenodo.org/api/records/22958760/files/mosfetq-dos-1.0.0.0.0-dev-1200.img"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 1228800,
+        "storage_class": "L"
+      },
+      "mosfetq-dos-1.0.0.0.0-dev-1440.img": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1e6e6807892c00aac11befbde354b515",
+        "ext": "img",
+        "id": "d57a1819-d29e-4ab4-8850-747e970ad587",
+        "key": "mosfetq-dos-1.0.0.0.0-dev-1440.img",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/mosfetq-dos-1.0.0.0.0-dev-1440.img/content",
+          "self": "https://zenodo.org/api/records/22958760/files/mosfetq-dos-1.0.0.0.0-dev-1440.img"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 1474560,
+        "storage_class": "L"
+      },
+      "mosfetq-dos-reconstructed.s": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:01a7b92da5e1591ffeec7ff9788da812",
+        "ext": "s",
+        "id": "5c01d4eb-7c0c-429c-91fb-026c86d9ab5e",
+        "key": "mosfetq-dos-reconstructed.s",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/mosfetq-dos-reconstructed.s/content",
+          "self": "https://zenodo.org/api/records/22958760/files/mosfetq-dos-reconstructed.s"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 7824,
+        "storage_class": "L"
+      },
+      "oeneye-5.0-gecko.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6f8c3ac827b5987339c122d1555da822",
+        "ext": "zip",
+        "id": "721fbdf0-21c7-43ef-9872-bc9c26225115",
+        "key": "oeneye-5.0-gecko.zip",
+        "links": {
+          "container": "https://zenodo.org/api/records/22958760/files/oeneye-5.0-gecko.zip/container",
+          "content": "https://zenodo.org/api/records/22958760/files/oeneye-5.0-gecko.zip/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneye-5.0-gecko.zip"
+        },
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 3068,
+        "storage_class": "L"
+      },
+      "oeneyeDongle-boot.img": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3acbe14ffe9aee364ab0bbf5792277a0",
+        "ext": "img",
+        "id": "c6b65111-ab8d-4dfe-ad77-a7d7e9947d9d",
+        "key": "oeneyeDongle-boot.img",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeDongle-boot.img/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeDongle-boot.img"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 16777216,
+        "storage_class": "L"
+      },
+      "oeneyeDongle.img": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a53dedfa12511e11a682c85769df99f1",
+        "ext": "img",
+        "id": "0dc80826-2364-438a-a4c1-134ab3e6f0e2",
+        "key": "oeneyeDongle.img",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeDongle.img/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeDongle.img"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 16777216,
+        "storage_class": "L"
+      },
+      "oeneyeFAT12.cpp": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:78e986e0f7c5ff19c08306c79979d421",
+        "ext": "cpp",
+        "id": "0829376c-eac9-4471-aba8-c30451802ad1",
+        "key": "oeneyeFAT12.cpp",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeFAT12.cpp/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeFAT12.cpp"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 9993,
+        "storage_class": "L"
+      },
+      "oeneyeLinuxKernel.tar": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1498509c020eab86cbe3a015edcdf623",
+        "ext": "tar",
+        "id": "76aa66d7-a991-4493-8e6d-4d27c7d789f9",
+        "key": "oeneyeLinuxKernel.tar",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeLinuxKernel.tar/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeLinuxKernel.tar"
+        },
+        "metadata": {},
+        "mimetype": "application/x-tar",
+        "size": 40960,
+        "storage_class": "L"
+      },
+      "oeneyeOS.img": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:221602298b55ffa6e80f25aef88eac7b",
+        "ext": "img",
+        "id": "1d12f78b-ff64-4023-b57b-7610c7b44f40",
+        "key": "oeneyeOS.img",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeOS.img/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeOS.img"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 41943040,
+        "storage_class": "L"
+      },
+      "oeneyeOSserver.img": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e3a2a12dc75d36d34366628aea0ce159",
+        "ext": "img",
+        "id": "903aa500-26e5-4a50-8a1e-29e30eb9b9c2",
+        "key": "oeneyeOSserver.img",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeOSserver.img/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeOSserver.img"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 41943040,
+        "storage_class": "L"
+      },
+      "oeneyePhraser_System_Specification.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:75fcb5ff60985ba10eb68e253e9bb081",
+        "ext": "pdf",
+        "id": "b6ba482c-4468-4d02-86f2-fea5db30926f",
+        "key": "oeneyePhraser_System_Specification.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyePhraser_System_Specification.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:oeneyePhraser_System_Specification.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:oeneyePhraser_System_Specification.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/oeneyePhraser_System_Specification.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:oeneyePhraser_System_Specification.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyePhraser_System_Specification.pdf"
+        },
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 28409,
+        "storage_class": "L"
+      },
+      "oeneyeSUDO.cpp": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:84a645217ca7a4a1699b6570099e16e4",
+        "ext": "cpp",
+        "id": "a99d7874-87c3-450f-bd91-c641ead05b22",
+        "key": "oeneyeSUDO.cpp",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeSUDO.cpp/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeSUDO.cpp"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 6865,
+        "storage_class": "L"
+      },
+      "oeneyeToolkit.tar.gz": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:61649fb3d2706cca09304a18e4c4da90",
+        "ext": "gz",
+        "id": "1ae609c1-9fbe-4626-988c-cd3c5a8541ed",
+        "key": "oeneyeToolkit.tar.gz",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeToolkit.tar.gz/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeToolkit.tar.gz"
+        },
+        "metadata": {},
+        "mimetype": "application/gzip",
+        "size": 192766,
+        "storage_class": "L"
+      },
+      "oeneyeVMx86.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:925f5de3e2c26d7542d85199b8fbb1b7",
+        "ext": "pdf",
+        "id": "9bacd5a4-ecaf-433c-b167-e2d74b989dbc",
+        "key": "oeneyeVMx86.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeVMx86.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:oeneyeVMx86.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:oeneyeVMx86.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/oeneyeVMx86.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:oeneyeVMx86.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeVMx86.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 43746,
+        "storage_class": "L"
+      },
+      "oeneyeVMx86.py": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2ba9f07922610573eabecae75a36fd60",
+        "ext": "py",
+        "id": "2c697330-2faa-4ffb-99ab-1149e84bef39",
+        "key": "oeneyeVMx86.py",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeVMx86.py/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeVMx86.py"
+        },
+        "metadata": {},
+        "mimetype": "text/x-python",
+        "size": 20561,
+        "storage_class": "L"
+      },
+      "oeneyeVirtualLab.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:05fc53e902c97dc2e41b40d988f89533",
+        "ext": "pdf",
+        "id": "66d494aa-9945-4a3d-8677-b4cd540789b4",
+        "key": "oeneyeVirtualLab.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeVirtualLab.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:oeneyeVirtualLab.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:oeneyeVirtualLab.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/oeneyeVirtualLab.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:oeneyeVirtualLab.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeVirtualLab.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 41922,
+        "storage_class": "L"
+      },
+      "oeneyeVirtualLab.py": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f46168c57f87de5a7b39df062fd7a9bb",
+        "ext": "py",
+        "id": "8b1a0884-8ffa-4d36-a921-05b3469daeee",
+        "key": "oeneyeVirtualLab.py",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeVirtualLab.py/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeVirtualLab.py"
+        },
+        "metadata": {},
+        "mimetype": "text/x-python",
+        "size": 16338,
+        "storage_class": "L"
+      },
+      "oeneye_exe.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8fa2784da60ec4aa456d8883ea8fe506",
+        "ext": "pdf",
+        "id": "4db2f0f6-e7ec-409a-9bbf-9221007210bf",
+        "key": "oeneye_exe.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneye_exe.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:oeneye_exe.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:oeneye_exe.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/oeneye_exe.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:oeneye_exe.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneye_exe.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 29283,
+        "storage_class": "L"
+      },
+      "oeneye_exe.py": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6e3eea8cbf2dc54f6f9987eeeb80a859",
+        "ext": "py",
+        "id": "a742cf64-5b06-4c75-8c86-f5404ec8625b",
+        "key": "oeneye_exe.py",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneye_exe.py/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneye_exe.py"
+        },
+        "metadata": {},
+        "mimetype": "text/x-python",
+        "size": 8376,
+        "storage_class": "L"
+      },
+      "oeneye_peripherals.cpp": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8c4c9e629c4e9d17e563432ee4a2f61a",
+        "ext": "cpp",
+        "id": "efc96ca4-f5b6-4dd8-b40b-3e737b8cbc64",
+        "key": "oeneye_peripherals.cpp",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneye_peripherals.cpp/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneye_peripherals.cpp"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 3819,
+        "storage_class": "L"
+      },
+      "oeneye_peripherals_daemon.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6b1d01e7dfec14efa9160bc1768a570d",
+        "ext": "pdf",
+        "id": "bb82c909-6bd5-4308-bb82-ef74f63d35f9",
+        "key": "oeneye_peripherals_daemon.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneye_peripherals_daemon.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:oeneye_peripherals_daemon.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:oeneye_peripherals_daemon.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/oeneye_peripherals_daemon.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:oeneye_peripherals_daemon.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneye_peripherals_daemon.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 17656,
+        "storage_class": "L"
+      },
+      "oeneye_peripherals_daemon.py": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7163a908c45913ffda3eae9bf460d5b4",
+        "ext": "py",
+        "id": "1ca8a975-4b18-441d-90ae-7ec3872e40d8",
+        "key": "oeneye_peripherals_daemon.py",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneye_peripherals_daemon.py/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneye_peripherals_daemon.py"
+        },
+        "metadata": {},
+        "mimetype": "text/x-python",
+        "size": 2264,
+        "storage_class": "L"
+      },
+      "oeneyeaccounts.c": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:31ad2d88aa616d6426f994a496b3bec8",
+        "ext": "txt",
+        "id": "0580a85e-7eaf-46c3-9ac2-55b683630327",
+        "key": "oeneyeaccounts.c",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeaccounts.c/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeaccounts.c"
+        },
+        "metadata": {},
+        "mimetype": "text/plain",
+        "size": 6376,
+        "storage_class": "L"
+      },
+      "oeneyeasm(1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bd4a18fd4c48fec350ab5404c3ef1f66",
+        "ext": "pdf",
+        "id": "cf0ffcce-41fe-4569-9827-5f3703e1f631",
+        "key": "oeneyeasm(1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeasm(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:oeneyeasm(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:oeneyeasm(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/oeneyeasm(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:oeneyeasm(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeasm(1).pdf"
+        },
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 22061,
+        "storage_class": "L"
+      },
+      "oeneyeasm.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a6c34bc544862a0ef6606a076876f00b",
+        "ext": "pdf",
+        "id": "d0a66a5d-bd8e-4802-9a71-00ff0e50a7fe",
+        "key": "oeneyeasm.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeasm.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:oeneyeasm.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:oeneyeasm.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/oeneyeasm.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:oeneyeasm.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeasm.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 32870,
+        "storage_class": "L"
+      },
+      "oeneyeasm.py": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0a099fbc569a0f64b996ff6ebad8fb00",
+        "ext": "py",
+        "id": "5ac0fc65-f708-4d2c-ae18-f4d2e98ee3de",
+        "key": "oeneyeasm.py",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeasm.py/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeasm.py"
+        },
+        "metadata": {},
+        "mimetype": "text/x-python",
+        "size": 10375,
+        "storage_class": "L"
+      },
+      "oeneyec-test-1440.img": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1d8e13182740712c4e688979f613f9ac",
+        "ext": "img",
+        "id": "1c0bbe75-a183-40dc-ac23-a3ce2f0fcf92",
+        "key": "oeneyec-test-1440.img",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyec-test-1440.img/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyec-test-1440.img"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 1474560,
+        "storage_class": "L"
+      },
+      "oeneyec-test-tree.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7d68b8c565c6161b1bb808d1482c734f",
+        "ext": "zip",
+        "id": "b35f79c0-07b9-44a0-9042-f01cb9d3d4c8",
+        "key": "oeneyec-test-tree.zip",
+        "links": {
+          "container": "https://zenodo.org/api/records/22958760/files/oeneyec-test-tree.zip/container",
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyec-test-tree.zip/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyec-test-tree.zip"
+        },
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 3566,
+        "storage_class": "L"
+      },
+      "oeneyec-test.ximg": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5a476250ca53f46ec82cce1d0220f707",
+        "ext": "ximg",
+        "id": "3cd156aa-904c-424e-8ba5-2968dddbcf3e",
+        "key": "oeneyec-test.ximg",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyec-test.ximg/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyec-test.ximg"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 18375,
+        "storage_class": "L"
+      },
+      "oeneyec.c": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8ffe6180a39c22169f63b2ef229d467f",
+        "ext": "txt",
+        "id": "f4c7c3b8-9207-4132-ad8b-acea723ddbb8",
+        "key": "oeneyec.c",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyec.c/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyec.c"
+        },
+        "metadata": {},
+        "mimetype": "text/plain",
+        "size": 27265,
+        "storage_class": "L"
+      },
+      "oeneyecomposer.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:366d5b8f5206902a04e5ef989dd6af39",
+        "ext": "pdf",
+        "id": "c898d3d4-ee27-4aa2-992a-538123f7884c",
+        "key": "oeneyecomposer.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyecomposer.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:oeneyecomposer.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:oeneyecomposer.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/oeneyecomposer.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:oeneyecomposer.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyecomposer.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 22545,
+        "storage_class": "L"
+      },
+      "oeneyecomposer.py": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e101b45bb15f7e264d8d7dd08e12ed13",
+        "ext": "py",
+        "id": "e40d4384-94a2-4da6-936a-ac308412a151",
+        "key": "oeneyecomposer.py",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyecomposer.py/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyecomposer.py"
+        },
+        "metadata": {},
+        "mimetype": "text/x-python",
+        "size": 4496,
+        "storage_class": "L"
+      },
+      "oeneyekde.c": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:850b1bcbf1b2a05d8d07624ffab527cd",
+        "ext": "txt",
+        "id": "330f784c-8090-4537-a89e-2e3e9ac2a3f1",
+        "key": "oeneyekde.c",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyekde.c/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyekde.c"
+        },
+        "metadata": {},
+        "mimetype": "text/plain",
+        "size": 7759,
+        "storage_class": "L"
+      },
+      "oeneyeorganizer.c": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5cb85ea82e129b5208f666457dc59599",
+        "ext": "txt",
+        "id": "8052e07e-b710-4fab-aea3-8c54c944379a",
+        "key": "oeneyeorganizer.c",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeorganizer.c/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeorganizer.c"
+        },
+        "metadata": {},
+        "mimetype": "text/plain",
+        "size": 6429,
+        "storage_class": "L"
+      },
+      "oeneyepartmgr.c": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:023f0db682c3ef52393f6e32eeab04d2",
+        "ext": "txt",
+        "id": "0f0395a3-b2b0-4173-b95f-2f8027b07048",
+        "key": "oeneyepartmgr.c",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyepartmgr.c/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyepartmgr.c"
+        },
+        "metadata": {},
+        "mimetype": "text/plain",
+        "size": 6034,
+        "storage_class": "L"
+      },
+      "oeneyephraser-firefoxos.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ea5b59e48e57b671d773b3e5fe4d7f5a",
+        "ext": "zip",
+        "id": "38a7df7a-8a2a-4d8d-98e8-6361190f62e1",
+        "key": "oeneyephraser-firefoxos.zip",
+        "links": {
+          "container": "https://zenodo.org/api/records/22958760/files/oeneyephraser-firefoxos.zip/container",
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyephraser-firefoxos.zip/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyephraser-firefoxos.zip"
+        },
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 6048,
+        "storage_class": "L"
+      },
+      "oeneyephraser.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:12eb521a9b395112ba29539005a981c3",
+        "ext": "pdf",
+        "id": "42aee3ae-aacd-42d4-bc4a-494974da97aa",
+        "key": "oeneyephraser.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyephraser.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22958760:oeneyephraser.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22958760:oeneyephraser.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22958760/canvas/oeneyephraser.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22958760:oeneyephraser.pdf/info.json",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyephraser.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 21613,
+        "storage_class": "L"
+      },
+      "oeneyephraser.ts": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:92c2ff8a14c295af1e2e70ba0a1a53c3",
+        "ext": "ts",
+        "id": "04f1ca7e-5845-44df-ba47-9ab9ea5a126b",
+        "key": "oeneyephraser.ts",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyephraser.ts/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyephraser.ts"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 4435,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 172782963
+  },
+  "id": "22958760",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/22958760/access",
+    "access_grants": "https://zenodo.org/api/records/22958760/access/grants",
+    "access_links": "https://zenodo.org/api/records/22958760/access/links",
+    "access_request": "https://zenodo.org/api/records/22958760/access/request",
+    "access_users": "https://zenodo.org/api/records/22958760/access/users",
+    "archive": "https://zenodo.org/api/records/22958760/files-archive",
+    "archive_media": "https://zenodo.org/api/records/22958760/media-files-archive",
+    "communities": "https://zenodo.org/api/records/22958760/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/22958760/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.22958760",
+    "draft": "https://zenodo.org/api/records/22958760/draft",
+    "file_modification": "https://zenodo.org/api/records/22958760/file-modification",
+    "files": "https://zenodo.org/api/records/22958760/files",
+    "latest": "https://zenodo.org/api/records/22958760/versions/latest",
+    "latest_html": "https://zenodo.org/records/22958760/latest",
+    "media_files": "https://zenodo.org/api/records/22958760/media-files",
+    "parent": "https://zenodo.org/api/records/22958759",
+    "parent_doi": "https://doi.org/10.5281/zenodo.22958759",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.22958759",
+    "parent_html": "https://zenodo.org/records/22958759",
+    "preview_html": "https://zenodo.org/records/22958760?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/22958760/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/22958760/request-deletion",
+    "requests": "https://zenodo.org/api/records/22958760/requests",
+    "reserve_doi": "https://zenodo.org/api/records/22958760/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/22958760",
+    "self_doi": "https://doi.org/10.5281/zenodo.22958760",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.22958760",
+    "self_html": "https://zenodo.org/records/22958760",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:22958760/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:22958760/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:22958760:oeneye_peripherals_daemon.pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:22958760:oeneye_peripherals_daemon.pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:22958760:oeneye_peripherals_daemon.pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:22958760:oeneye_peripherals_daemon.pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:22958760:oeneye_peripherals_daemon.pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:22958760:oeneye_peripherals_daemon.pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/22958760/versions"
+  },
+  "media_files": {
+    "count": 15,
+    "enabled": true,
+    "entries": {
+      "build-oeneyeDongle-linux-cd.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "3b1cc132-6180-4f72-be7d-ccc83d568a06",
+        "key": "build-oeneyeDongle-linux-cd.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux-cd.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux-cd.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "1902afaa-8c30-48e7-b29d-1e844b86c293",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "build-oeneyeDongle-linux.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "68068573-1393-426a-bd85-b4a990a2cb67",
+        "key": "build-oeneyeDongle-linux.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeDongle-linux.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e646e18d-0a1b-4367-8927-20548612b629",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "build-oeneyeLinux (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "0bd73f19-0280-4d98-b149-0564f000cf44",
+        "key": "build-oeneyeLinux (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeLinux%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeLinux%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "499521e8-e9a1-4142-94c4-55d0d11dc468",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "build-oeneyeLinux.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "7e1df41e-f554-4fb8-b439-bb85b79494a9",
+        "key": "build-oeneyeLinux.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/build-oeneyeLinux.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/build-oeneyeLinux.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "68491732-7ff3-4c37-9418-c38a03af13bf",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "fatcheck.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "8c8b060d-fff6-4c9b-9703-24040f34935b",
+        "key": "fatcheck.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/fatcheck.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/fatcheck.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e36245da-9441-48a0-b276-88c9621228f3",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "install.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4cb6eab8-0345-4d78-af68-d96facf50091",
+        "key": "install.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/install.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/install.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "e41adebe-b001-4d7a-8098-369caa08cb5d",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "oeneyePhraser_System_Specification.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "86942ec6-cd28-4217-a68a-4b8bb9b2d6d0",
+        "key": "oeneyePhraser_System_Specification.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyePhraser_System_Specification.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyePhraser_System_Specification.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "b6ba482c-4468-4d02-86f2-fea5db30926f",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "oeneyeVMx86.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "086a3090-2411-4bd3-a6c3-71bf94c97e71",
+        "key": "oeneyeVMx86.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeVMx86.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeVMx86.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "9bacd5a4-ecaf-433c-b167-e2d74b989dbc",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "oeneyeVirtualLab.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "7c399c9f-4756-4d19-ba4c-eeeb58d3bb3c",
+        "key": "oeneyeVirtualLab.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeVirtualLab.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeVirtualLab.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "66d494aa-9945-4a3d-8677-b4cd540789b4",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "oeneye_exe.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "4ce378fa-329b-4858-854a-5711869b3b00",
+        "key": "oeneye_exe.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneye_exe.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneye_exe.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "4db2f0f6-e7ec-409a-9bbf-9221007210bf",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "oeneye_peripherals_daemon.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "8ad29bb3-2160-4c96-a3f0-fc7ffa0e31f7",
+        "key": "oeneye_peripherals_daemon.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneye_peripherals_daemon.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneye_peripherals_daemon.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "bb82c909-6bd5-4308-bb82-ef74f63d35f9",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "oeneyeasm(1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "333bd09a-8fb6-4755-b1e7-f2c13f01a695",
+        "key": "oeneyeasm(1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeasm(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeasm(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "cf0ffcce-41fe-4569-9827-5f3703e1f631",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "oeneyeasm.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "baea25e6-7144-48ad-8f79-f8792c307443",
+        "key": "oeneyeasm.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyeasm.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyeasm.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "d0a66a5d-bd8e-4802-9a71-00ff0e50a7fe",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "oeneyecomposer.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "58d7ff68-3b1a-4921-89e5-b7b71efcc30d",
+        "key": "oeneyecomposer.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyecomposer.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyecomposer.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "c898d3d4-ee27-4aa2-992a-538123f7884c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "oeneyephraser.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "1cf01209-4a12-4320-b519-cdc08b56e762",
+        "key": "oeneyephraser.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22958760/files/oeneyephraser.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22958760/files/oeneyephraser.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "42aee3ae-aacd-42d4-bc4a-494974da97aa",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "03ceayq64",
+            "identifiers": [
+              {
+                "identifier": "03ceayq64",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.481608.3",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0004 0525 3365",
+                "scheme": "isni"
+              }
+            ],
+            "name": "Rheinmetall (Switzerland)"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Ketelhut",
+          "given_name": "Kai Olaf",
+          "identifiers": [
+            {
+              "identifier": "0000-0001-6049-8873",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Ketelhut, Kai Olaf",
+          "type": "personal"
+        },
+        "role": {
+          "id": "contactperson",
+          "title": {
+            "de": "Kontaktperson",
+            "en": "Contact person"
+          }
+        }
+      }
+    ],
+    "description": "<p>sett Tartan maker oeneye Assembly Oeneye: Oeneye Assembly Language Specification</p>",
+    "publication_date": "2026-09-25",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "lesson",
+      "title": {
+        "de": "Unterrichtseinheit",
+        "en": "Lesson"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "Oeneye Assembly Language Specification sett:oeneye"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1552517"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {
+      "default": "a76481fd-5cbc-4667-9465-5378cfecec7c",
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "members",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2026-02-20T17:40:46.712358+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "a76481fd-5cbc-4667-9465-5378cfecec7c",
+          "links": {},
+          "metadata": {
+            "curation_policy": "<p>https://d-nb.info/1417341459/34</p>",
+            "description": "https://d-nb.info/1417228393/34",
+            "page": "<p>https://d-nb.info/1417228393/34</p>",
+            "title": "Ostpreu\u00dfen-russe-Gakush\u016bjo Further Education College",
+            "type": {
+              "id": "organization"
+            },
+            "website": "https://acrobat.adobe.com/id/urn:aaid:sc:EU:fc88b847-5258-47ab-90dc-e792b8086914"
+          },
+          "revision_id": 11,
+          "slug": "org-curatorium",
+          "updated": "2026-09-07T13:57:11.234872+00:00"
+        }
+      ],
+      "ids": [
+        "a76481fd-5cbc-4667-9465-5378cfecec7c"
+      ]
+    },
+    "id": "22958759",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.22958759",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.22958760",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:22958760",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 4,
+  "stats": {
+    "all_versions": {
+      "data_volume": 44122.0,
+      "downloads": 2,
+      "unique_downloads": 2,
+      "unique_views": 1,
+      "views": 1
+    },
+    "this_version": {
+      "data_volume": 44122.0,
+      "downloads": 2,
+      "unique_downloads": 2,
+      "unique_views": 1,
+      "views": 1
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-09-25T12:14:39.659896+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}

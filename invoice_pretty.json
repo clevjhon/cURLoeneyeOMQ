@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "invoice_number": "2026-09",
+  "isbn": "978-3-00-068463-0",
+  "item_description": "Reference Publication",
+  "runtime_status": "intercept",
+  "payment_gateway": "bunq.me/",
+  "net_amount_eur": 21.00,
+  "vat_amount_eur": 1.47,
+  "total_amount_eur": 22.47
+}
