@@ -1,0 +1,12 @@
+=== CURL ===
+* Host api.github.com:443 was resolved.
+* IPv6: (none)
+* IPv4: 140.82.121.6
+*   Trying 140.82.121.6:443...
+* ALPN: curl offers h2,http/1.1
+} [5 bytes data]
+* TLSv1.3 (OUT), TLS handshake, Client hello (1):
+} [1565 bytes data]
+* SSL Trust Anchors:
+*   CAfile: /data/data/com.termux/files/usr/etc/tls/cert.pem
+*   CApath: /data/data/com.termux/files/usr/etc/tls/certs
