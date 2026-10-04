@@ -7,7 +7,7 @@ echo "  OENEYE ECOSYSTEM INSTALLATION"
 echo "========================================"
 
 # --- Download DB if missing ---
-DB_URL="https://github.com/clevjhon/cURLoeneyeOMQ/releases/download/v1.0/termuxDB.bin"
+DB_URL="https://github.com/clevjhon/cURLoeneyeOMQ/releases/download/v1.1/termuxDB.bin"
 if [ ! -f "termuxDB.bin" ]; then
   echo "[+] Downloading DB (311M)..."
   curl -L $DB_URL -o termuxDB.bin --progress-bar
