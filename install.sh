@@ -6,7 +6,7 @@ echo "=============================="
 
 DB_URL="https://github.com/clevjhon/cURLoeneyeOMQ/releases/download/v1.1/termuxDB.bin"
 
-if [! -f "termuxDB.bin" ]; then
+if [ ! -f "termuxDB.bin" ]; then
     echo "[+] Downloading DB (311M)..."
     curl -L $DB_URL -o termuxDB.bin --progress-bar
 else
