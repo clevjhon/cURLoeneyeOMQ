@@ -1,44 +1,33 @@
 #!/bin/bash
-echo "========================================"
-echo "   OENEYE ECOSYSTEM INSTALLATION"
-#!/bin/bash
-echo "========================================"
-echo "  OENEYE ECOSYSTEM INSTALLATION"
-echo "========================================"
+set -e
+echo "=============================="
+echo " OENEYE ECOSYSTEM INSTALLATION"
+echo "=============================="
 
-# --- Download DB if missing ---
 DB_URL="https://github.com/clevjhon/cURLoeneyeOMQ/releases/download/v1.1/termuxDB.bin"
-if [ ! -f "termuxDB.bin" ]; then
-  echo "[+] Downloading DB (311M)..."
-  curl -L $DB_URL -o termuxDB.bin --progress-bar
+
+if [! -f "termuxDB.bin" ]; then
+    echo "[+] Downloading DB (311M)..."
+    curl -L $DB_URL -o termuxDB.bin --progress-bar
 else
-  echo "[+] DB already exists"
+    echo "[+] DB exists ($(du -h termuxDB.bin | cut -f1))"
 fi
 
-# Ensure required directories exist
+# --- Entropy verification ---
+if [ -f "verify_random.py" ]; then
+    echo "[+] Verifying DB randomness..."
+    python3 verify_random.py termuxDB.bin
+else
+    echo "[!] verify_random.py missing, skipping check"
+fi
+
 mkdir -p brand emulator mosfetq-dos vfat-lfn fat77 docs
 
-# Verify local files
 if [ -f "index.html" ] && [ -f "OENEYE_EULA.md" ]; then
     echo "[+] Core portal and EULA verified."
 else
-    echo "[!] Warning: Portal files missing. Running generators..."
-    python3 oeneye_html_generator.py
+    echo "[!] Portal files missing, generating..."
+    [ -f "oeneye_html_generator.py" ] && python3 oeneye_html_generator.py || echo "[!] generator not found"
 fi
 
-echo "[+] Installation sequence complete."
-echo "========================================"echo "========================================"
-
-# Ensure required directories exist
-mkdir -p brand emulator mosfetq-dos vfat-lfn fat77 docs
-
-# Verify local files
-if [ -f "index.html" ] && [ -f "OENEYE_EULA.md" ]; then
-    echo "[+] Core portal and EULA verified."
-else
-    echo "[!] Warning: Portal files missing. Running generators..."
-    python3 oeneye_html_generator.py
-fi
-
-echo "[+] Installation sequence complete."
-echo "========================================"
+echo "[+] Installation complete."
