@@ -2,17 +2,28 @@
 \RequirePackage{fontspec}
 
 \setmainfont{OMQ}[
-    Path = ./,
-    Extension = .ttf,
-    Scale = MatchLowercase,
-    Ligatures = {Common, TeX}
+  Path =./,
+  Extension =.ttf,
+  UprightFont = *,
+  BoldFont = *,
+  ItalicFont = *,
+  BoldItalicFont = *,
+  Scale = MatchLowercase,
+  Ligatures = {Common, TeX},
+  BoldFeatures = {FakeBold=1.2},
+  ItalicFeatures = {FakeSlant=0.2}
 ]
 
 \newfontfamily\oeneyefont{OMQ}[
-    Path = ./,
-    Extension = .ttf,
-    Scale = MatchLowercase,
-    Ligatures = {Common, TeX}
+  Path =./,
+  Extension =.ttf,
+  UprightFont = *,
+  BoldFont = *,
+  ItalicFont = *,
+  BoldItalicFont = *,
+  Scale = MatchLowercase,
+  Ligatures = {Common, TeX},
+  BoldFeatures = {FakeBold=1.2}
 ]
 
 \newcommand{\textoeneye}[1]{{\oeneyefont #1}}
